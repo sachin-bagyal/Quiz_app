@@ -85,12 +85,12 @@ const questions = [
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'Who is the most followed person on Instagram ?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'Cristiano Ronaldo', correct: true },
+      { text: 'Selena Gomez', correct: false },
+      { text: 'Lionel Messi', correct: false },
+      { text: 'Virat Kohli', correct: false }
     ]
   },
   {
@@ -103,10 +103,10 @@ const questions = [
     ]
   },
   {
-    question: 'What is 4 * 2?',
+    question: 'What is 40 * 20?',
     answers: [
-      { text: '6', correct: false },
-      { text: '8', correct: true }
+      { text: '600', correct: false },
+      { text: '800', correct: true }
     ]
   }
 ]
